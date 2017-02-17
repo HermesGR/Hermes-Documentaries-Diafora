@@ -2,6 +2,15 @@
 
 #EXTM3U
 
+#EXTINF:1,Υπερκατασκευές - Dubai Palace hotel
+plugin://plugin.video.youtube/?action=play_video&videoid=p45PuSCTgfU
+
+#EXTINF:1,ΥΠΕΡ-ΕΡΓΟΣΤΑΣΙΑ: Η ΑΝΑΜΟΡΦΩΣΗ ΤΗΣ MERCEDES
+plugin://plugin.video.youtube/?action=play_video&videoid=LOMueCA3FRI
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Γέφυρα Δυο Ηπείρων
+plugin://plugin.video.youtube/?action=play_video&videoid=DifmzO-ebuo
+
 #EXTINF:1,Νίκος Γκάλης - Και εγένετo μπάσκετ
 plugin://plugin.video.youtube/?action=play_video&videoid=Lb16497Dwyc
 
