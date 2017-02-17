@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,Νίκος Γκάλης - Και εγένετo μπάσκετ
+plugin://plugin.video.youtube/?action=play_video&videoid=Lb16497Dwyc
+
 #EXTINF:1,ΠΩΣ Η ΚΑΝΝΑΒΗ ΘΕΡΑΠΕΥΕΙ ΤΟΝ ΚΑΡΚΙΝΟ
 plugin://plugin.video.youtube/?action=play_video&videoid=v=XtQk0w6ZXA8
 
