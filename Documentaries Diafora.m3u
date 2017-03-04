@@ -250,3 +250,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6r-pdhIRZRM
 
 #EXTINF:1,ΤΟ ΧΤΙΣΙΜΟ ΤΗΣ ΠΥΡΑΜΙΔΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=5AYw0_MyYZA
+
+#EXTINF:1,ΔΙΑΣΤΗΜΑ - ΤΟ ΥΦΑΝΤΟ ΤΟΥ ΚΟΣΜΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=dyFQzV3K2VI
+
+#EXTINF:1,ΤΑ ΜΥΣΤΙΚΑ ΚΑΙ Η ΨΕΥΔΑΙΣΘΗΣΗ ΤΟΥ ΧΡΟΝΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=pTJdv3W3nuc
