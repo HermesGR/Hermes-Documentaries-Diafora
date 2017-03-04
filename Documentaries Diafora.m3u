@@ -5,6 +5,12 @@
 #EXTINF:1,Υπερκατασκευές - Dubai Palace hotel
 plugin://plugin.video.youtube/?action=play_video&videoid=p45PuSCTgfU
 
+#EXTINF:1,Tα μυστικά του κόκκινου πάντα
+plugin://plugin.video.youtube/?action=play_video&videoid=L88O_UlruzU
+
+#EXTINF:1,Η Ιστορία του Κόσμου μέσα σε 2 ώρες
+plugin://plugin.video.youtube/?action=play_video&videoid=neOSet0fu8c
+
 #EXTINF:1,ΥΠΕΡ-ΕΡΓΟΣΤΑΣΙΑ: Η ΑΝΑΜΟΡΦΩΣΗ ΤΗΣ MERCEDES
 plugin://plugin.video.youtube/?action=play_video&videoid=LOMueCA3FRI
 
