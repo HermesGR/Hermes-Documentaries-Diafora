@@ -2,6 +2,21 @@
 
 #EXTM3U
 
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- DISTURBED
+plugin://plugin.video.youtube/?action=play_video&videoid=GqIfRDOXUX0
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- BEHIND THE MASK
+plugin://plugin.video.youtube/?action=play_video&videoid=SUvhigy-j88
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- LETHAL LOVERS
+plugin://plugin.video.youtube/?action=play_video&videoid=ZVEBQsH9cWQ
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- FATAL OBSESSION
+plugin://plugin.video.youtube/?action=play_video&videoid=VTfOg08Ln6o
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- FORBIDDEN LOVE
+plugin://plugin.video.youtube/?action=play_video&videoid=HyM1uU82Ux4
+
 #EXTINF:1,Υπερκατασκευές - Dubai Palace hotel
 plugin://plugin.video.youtube/?action=play_video&videoid=p45PuSCTgfU
 
