@@ -2,36 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:1,Κατά συρροή δολοφόνοι: ΤΖΕΦΡΙ ΝΤΑΜΕΡ
-plugin://plugin.video.youtube/?action=play_video&videoid=AoyeKDO8UaE
-
-#EXTINF:1,Κατά συρροή δολοφόνοι: JOHN WAYNE GACY
-plugin://plugin.video.youtube/?action=play_video&videoid=GNy7nAz4R1o
-
-#EXTINF:1,Αϊλίν Γουόρνος -  Η πιο διαβόητη γυναίκα serial killer
-plugin://plugin.video.youtube/?action=play_video&videoid=Y9mpsfTNSz8
-
-#EXTINF:1,Εγκλήματα Που Συγκλόνισαν Τον Κόσμο - Το Σπίτι Του Τρόμου
-plugin://plugin.video.youtube/?action=play_video&videoid=hquAcgb6M6M
-
-#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- TWISTED MINDS
-plugin://plugin.video.youtube/?action=play_video&videoid=--SWHaVruXo
-
-#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- DISTURBED
-plugin://plugin.video.youtube/?action=play_video&videoid=GqIfRDOXUX0
-
-#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- BEHIND THE MASK
-plugin://plugin.video.youtube/?action=play_video&videoid=SUvhigy-j88
-
-#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- LETHAL LOVERS
-plugin://plugin.video.youtube/?action=play_video&videoid=ZVEBQsH9cWQ
-
-#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- FATAL OBSESSION
-plugin://plugin.video.youtube/?action=play_video&videoid=VTfOg08Ln6o
-
-#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- FORBIDDEN LOVE
-plugin://plugin.video.youtube/?action=play_video&videoid=HyM1uU82Ux4
-
 #EXTINF:1,ΦΑΙΝΟΜΕΝΑ : Τύχη, συμπτώσεις, συγχρονικότητα
 plugin://plugin.video.youtube/?action=play_video&videoid=L34cWJuXopw
 
@@ -121,6 +91,132 @@ plugin://plugin.video.youtube/?action=play_video&videoid=p-ED1WFzKFg
 
 #EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Κρουαζιέρα στην Ανταρκτική - Cruise to Antarctica with Azamara Journey
 plugin://plugin.video.youtube/?action=play_video&videoid=N0gSeN1o69U
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Κρουαζιέρα στον Ινδικό - Cruise to Indian Ocean with Azamara Quest 
+plugin://plugin.video.youtube/?action=play_video&videoid=Np8XYtsoxa4
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Κρουαζιέρα στη Κεντρική Αμερική - Cruise to Central America with Azamara Quest
+plugin://plugin.video.youtube/?action=play_video&videoid=-hHBbMcGi-c
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Κρουαζιέρα στη Μεσόγειο - Cruise to Mediterranean with Azamara Quest
+plugin://plugin.video.youtube/?action=play_video&videoid=pFa0e5EbTU0
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Κρουαζιέρα στην Καραϊβική - Cruise to Caribbean with Azamara Quest
+plugin://plugin.video.youtube/?action=play_video&videoid=okkhjKDFR4U
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Κρουαζιέρα στο Αιγαίο με Celestyal Cruises
+plugin://plugin.video.youtube/?action=play_video&videoid=kgbNzbWZheA
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Ταξίδι στο Βαρανάσι ( Μπενάρες ) Ινδία - Trip to Varanasi ( Benares ) India
+plugin://plugin.video.youtube/?action=play_video&videoid=9sfzg-ZORxY
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Ταξίδι στο Δελχί & Τζαΐπούρ Ινδία - Trip to Delhi & Jaipur India 
+plugin://plugin.video.youtube/?action=play_video&videoid=j3J2uDZeH7g
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Ταξίδι στο Λονδίνο - Trip to London
+plugin://plugin.video.youtube/?action=play_video&videoid=m4Oi1sczzTI
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Santorini
+plugin://plugin.video.youtube/?action=play_video&videoid=XjQIeP9u_xA
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Mykonos
+plugin://plugin.video.youtube/?action=play_video&videoid=gPg7qJwiT5Y
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Chalkidiki
+plugin://plugin.video.youtube/?action=play_video&videoid=4NrjnpC1IKQ
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Ikaria
+plugin://plugin.video.youtube/?action=play_video&videoid=ibgtsl_6Qhs
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller | Θεσσαλονίκη
+plugin://plugin.video.youtube/?action=play_video&videoid=lYvk2ly1gcU
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - HappyTraveller στα Ζαγοροχώρια
+plugin://plugin.video.youtube/?action=play_video&videoid=GihFJtPBSpk
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller - Άγιοι Τόποι 
+plugin://plugin.video.youtube/?action=play_video&videoid=3Ia7pDh_eOg
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller Αριδαια / Λουτρακι / Ποζαρ
+plugin://plugin.video.youtube/?action=play_video&videoid=q_OQqIViuSA
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Kos
+plugin://plugin.video.youtube/?action=play_video&videoid=aBNEZKGbDQE
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller στη Ζάκυνθο
+plugin://plugin.video.youtube/?action=play_video&videoid=c_wrGxMfFAU
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller | Chania | Crete
+plugin://plugin.video.youtube/?action=play_video&videoid=gHgejP-8ulQ
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Sfakia Crete
+plugin://plugin.video.youtube/?action=play_video&videoid=BPgo6QWv6uI
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller στη XIO | Chios  
+plugin://plugin.video.youtube/?action=play_video&videoid=VpPoaKvyXg4
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - HappyTraveller στη Λέσβο
+plugin://plugin.video.youtube/?action=play_video&videoid=Gh5iugvxxV4
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller | Σέρρες και Λίμνη Κερκίνη
+plugin://plugin.video.youtube/?action=play_video&videoid=SHLrTeA_NOw
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller στο Πήλιο
+plugin://plugin.video.youtube/?action=play_video&videoid=--b9k0CMjgQ
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Kalamata/Messinia
+plugin://plugin.video.youtube/?action=play_video&videoid=j7O95-fskKg
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller - Άρτα 
+plugin://plugin.video.youtube/?action=play_video&videoid=lC6kNsvTpaY
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller - Sri Lanka
+plugin://plugin.video.youtube/?action=play_video&videoid=87Bx1MGJ2ZM
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Phuket | Thailand 
+plugin://plugin.video.youtube/?action=play_video&videoid=9S231-6sNHs
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Bangkok, Thailand
+plugin://plugin.video.youtube/?action=play_video&videoid=j5WRpDO8gCU
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Budapest
+plugin://plugin.video.youtube/?action=play_video&videoid=6VCOUGJluqQ
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Vienna
+plugin://plugin.video.youtube/?action=play_video&videoid=-1KOiMUX2ys
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Paris / Northern France
+plugin://plugin.video.youtube/?action=play_video&videoid=2uWe3h8kByc
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller στο Μιλάνο
+plugin://plugin.video.youtube/?action=play_video&videoid=gGZ-gWxTsgM
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Bahrain
+plugin://plugin.video.youtube/?action=play_video&videoid=7Ya3NDuQIrI
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Happy Traveller in Cyprus 
+plugin://plugin.video.youtube/?action=play_video&videoid=fEmVI5tnF4s
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - 300 Σπαρτιάτες - Η Μάχη των Θερμοπυλών
+plugin://plugin.video.youtube/?action=play_video&videoid=IgcBtbs6I4g
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Η Μάχη Του Μαραθώνα
+plugin://plugin.video.youtube/?action=play_video&videoid=wtPCC8bhXeA
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Η μάχη στα Γαυγάμηλα
+plugin://plugin.video.youtube/?action=play_video&videoid=_QEGO1V9d-Q
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - ΒΑΤΙΚΑΝΌ
+plugin://plugin.video.youtube/?action=play_video&videoid=QZFV3RFaEyM
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Οι κώδικες της Αποκάλυψης
+plugin://plugin.video.youtube/?action=play_video&videoid=u9X-5YI1HhE
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Η ΔΥΝΑΣΤΕΙΑ ΩΝΑΣΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=zSzLbSc4sHc
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Ρένα Βλαχοπούλου - Η άγνωστη ζωή της
+plugin://plugin.video.youtube/?action=play_video&videoid=vSa-5Qo9fy0
 
 #EXTINF:1,Νίκος Γκάλης - Και εγένετo μπάσκετ
 plugin://plugin.video.youtube/?action=play_video&videoid=Lb16497Dwyc
@@ -367,3 +463,33 @@ plugin://plugin.video.youtube/?action=play_video&videoid=dyFQzV3K2VI
 
 #EXTINF:1,ΤΑ ΜΥΣΤΙΚΑ ΚΑΙ Η ΨΕΥΔΑΙΣΘΗΣΗ ΤΟΥ ΧΡΟΝΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=pTJdv3W3nuc
+
+#EXTINF:1,Κατά συρροή δολοφόνοι: ΤΖΕΦΡΙ ΝΤΑΜΕΡ
+plugin://plugin.video.youtube/?action=play_video&videoid=AoyeKDO8UaE
+
+#EXTINF:1,Κατά συρροή δολοφόνοι: JOHN WAYNE GACY
+plugin://plugin.video.youtube/?action=play_video&videoid=GNy7nAz4R1o
+
+#EXTINF:1,Αϊλίν Γουόρνος -  Η πιο διαβόητη γυναίκα serial killer
+plugin://plugin.video.youtube/?action=play_video&videoid=Y9mpsfTNSz8
+
+#EXTINF:1,Εγκλήματα Που Συγκλόνισαν Τον Κόσμο - Το Σπίτι Του Τρόμου
+plugin://plugin.video.youtube/?action=play_video&videoid=hquAcgb6M6M
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- TWISTED MINDS
+plugin://plugin.video.youtube/?action=play_video&videoid=--SWHaVruXo
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- DISTURBED
+plugin://plugin.video.youtube/?action=play_video&videoid=GqIfRDOXUX0
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- BEHIND THE MASK
+plugin://plugin.video.youtube/?action=play_video&videoid=SUvhigy-j88
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- LETHAL LOVERS
+plugin://plugin.video.youtube/?action=play_video&videoid=ZVEBQsH9cWQ
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- FATAL OBSESSION
+plugin://plugin.video.youtube/?action=play_video&videoid=VTfOg08Ln6o
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- FORBIDDEN LOVE
+plugin://plugin.video.youtube/?action=play_video&videoid=HyM1uU82Ux4
