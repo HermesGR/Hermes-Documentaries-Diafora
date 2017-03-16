@@ -2,6 +2,21 @@
 
 #EXTM3U
 
+#EXTINF:1,Κατά συρροή δολοφόνοι: ΤΖΕΦΡΙ ΝΤΑΜΕΡ
+plugin://plugin.video.youtube/?action=play_video&videoid=AoyeKDO8UaE
+
+#EXTINF:1,Κατά συρροή δολοφόνοι: JOHN WAYNE GACY
+plugin://plugin.video.youtube/?action=play_video&videoid=GNy7nAz4R1o
+
+#EXTINF:1,Αϊλίν Γουόρνος -  Η πιο διαβόητη γυναίκα serial killer
+plugin://plugin.video.youtube/?action=play_video&videoid=Y9mpsfTNSz8
+
+#EXTINF:1,Εγκλήματα Που Συγκλόνισαν Τον Κόσμο - Το Σπίτι Του Τρόμου
+plugin://plugin.video.youtube/?action=play_video&videoid=hquAcgb6M6M
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- TWISTED MINDS
+plugin://plugin.video.youtube/?action=play_video&videoid=--SWHaVruXo
+
 #EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- DISTURBED
 plugin://plugin.video.youtube/?action=play_video&videoid=GqIfRDOXUX0
 
