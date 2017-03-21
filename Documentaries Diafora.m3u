@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,Athene's : Η Θεωρία των Πάντων
+plugin://plugin.video.youtube/?action=play_video&videoid=vjXFDzX31WM
+
 #EXTINF:1,ΦΑΙΝΟΜΕΝΑ : Τύχη, συμπτώσεις, συγχρονικότητα
 plugin://plugin.video.youtube/?action=play_video&videoid=L34cWJuXopw
 
