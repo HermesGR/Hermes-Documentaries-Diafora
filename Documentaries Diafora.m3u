@@ -2,6 +2,15 @@
 
 #EXTM3U
 
+#EXTINF:1,ΑΕΡΟΠΟΡΙΚΗ ΤΡΑΓΟΔΙΑ ΜΟΝΑΧΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=zzsQ7tRNyQc
+
+#EXTINF:1,ΟΙ ΣΥΓΧΡΟΝΟΙ ΓΙΓΑΝΤΕΣ ΤΩΝ ΑΙΘΕΡΩΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=NjcU0Las8sc
+
+#EXTINF:1,Τα καλύτερα ελικόπτερα όλων των εποχών
+plugin://plugin.video.youtube/?action=play_video&videoid=1kDofud_Msw
+
 #EXTINF:1,Athene's : Η Θεωρία των Πάντων
 plugin://plugin.video.youtube/?action=play_video&videoid=vjXFDzX31WM
 
