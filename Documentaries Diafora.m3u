@@ -2,7 +2,34 @@
 
 #EXTM3U
 
-#EXTINF:1,ΑΕΡΟΠΟΡΙΚΗ ΤΡΑΓΟΔΙΑ ΜΟΝΑΧΟΥ
+#EXTINF:1,Dimitris_Diamantidis_Documentary
+plugin://plugin.video.youtube/?action=play_video&videoid=PIMkUiNSibI
+
+#EXTINF:1,ΒΙΟΛΟΓΙΚΑ ΟΠΛΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=J_mOkg-ifUU
+
+#EXTINF:1,Ο Πύργος Της Πίζας
+plugin://plugin.video.youtube/?action=play_video&videoid=c-4VoStrLuk
+
+#EXTINF:1,Ταξιδεύοντας στο διάστημα
+plugin://plugin.video.youtube/?action=play_video&videoid=N_FXsf-zyig
+
+#EXTINF:1,Η Αλήθεια πίσω από τον Βασιλιά Αρθούρο 
+plugin://plugin.video.youtube/?action=play_video&videoid=O_BHzsbLIRA
+
+#EXTINF:1,Επικίνδυνες πόλεις - Σάο Πάολο 
+plugin://plugin.video.youtube/?action=play_video&videoid=d9TGxjbupSw
+
+#EXTINF:1,Επικίνδυνες πόλεις - Μεξικό-Τσιουάουα
+plugin://plugin.video.youtube/?action=play_video&videoid=B6QB-8-LElQ
+
+#EXTINF:1,Ολυμπία – Οι ρίζες των Ολυμπιακών Αγώνων 
+plugin://plugin.video.youtube/?action=play_video&videoid=7KUe-F_HVFM
+
+#EXTINF:1,Η Μάχη Της Μόσχας 
+plugin://plugin.video.youtube/?action=play_video&videoid=JMdC91JXIk8
+
+#EXTINF:1,ΑΕΡΟΠΟΡΙΚΗ ΤΡΑΓΩΔΙΑ ΜΟΝΑΧΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=zzsQ7tRNyQc
 
 #EXTINF:1,ΟΙ ΣΥΓΧΡΟΝΟΙ ΓΙΓΑΝΤΕΣ ΤΩΝ ΑΙΘΕΡΩΝ
