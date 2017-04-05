@@ -2,10 +2,19 @@
 
 #EXTM3U
 
+#EXTINF:1,Seal Team 6 - Οι Εκλεκτοί των Εκλεκτών
+plugin://plugin.video.youtube/?action=play_video&videoid=qPBbc_8XycI
+
+#EXTINF:1,Σεισμός και Ζώα
+plugin://plugin.video.youtube/?action=play_video&videoid=ylj1b0xXw6U
+
+#EXTINF:1,King Cobra
+plugin://plugin.video.youtube/?action=play_video&videoid=kRchN2I3gGA
+
 #EXTINF:1,Dimitris_Diamantidis_Documentary
 plugin://plugin.video.youtube/?action=play_video&videoid=PIMkUiNSibI
 
-#EXTINF:1,ΒΙΟΛΟΓΙΚΑ ΟΠΛΑ
+#EXTINF:1,Βιολογικά Όπλα
 plugin://plugin.video.youtube/?action=play_video&videoid=J_mOkg-ifUU
 
 #EXTINF:1,Ο Πύργος Της Πίζας
