@@ -2,6 +2,27 @@
 
 #EXTM3U
 
+#EXTINF:1,Ντοκυμαντέρ με άγρια ζώα
+plugin://plugin.video.youtube/?action=play_video&videoid=Mtk2xbh8CvQ
+
+#EXTINF:1,Σερενγκέτι 
+plugin://plugin.video.youtube/?action=play_video&videoid=tOsEKfyXc2M
+
+#EXTINF:1,Ακραία Άμυνα
+plugin://plugin.video.youtube/?action=play_video&videoid=roWRyL7xUpA
+
+#EXTINF:1,Υπόγειοι κόσμοι
+plugin://plugin.video.youtube/?action=play_video&videoid=NORHFVch0EI
+
+#EXTINF:1,O Θάνατος του Χίτλερ
+plugin://plugin.video.youtube/?action=play_video&videoid=__BRnh9tx6c
+
+#EXTINF:1,Το ηφαίστειο της Σαντορίνης
+plugin://plugin.video.youtube/?action=play_video&videoid=H6946asLYu0
+
+#EXTINF:1,Ταξίδι στον Ταύγετο
+plugin://plugin.video.youtube/?action=play_video&videoid=uJHNvnRUM34
+
 #EXTINF:1,Το Μυστικό
 plugin://plugin.video.youtube/?action=play_video&videoid=zH2qqPVWang
 
