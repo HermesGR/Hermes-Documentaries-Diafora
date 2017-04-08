@@ -2,6 +2,33 @@
 
 #EXTM3U
 
+#EXTINF:1,Megastructures National Geographic, Dubai Palace hotel
+plugin://plugin.video.youtube/?action=play_video&videoid=JLc9LjPxYLI
+
+#EXTINF:1,Oι 10 Μεγαλύτερες Φυσικές Καταστροφές
+plugin://plugin.video.youtube/?action=play_video&videoid=LqXLxqLseWU
+
+#EXTINF:1,ΠΑΡΑΛΛΗΛΑ ΣΥΜΠΑΝΤΑ-ΥΠΑΡΧΟΥΝ?
+plugin://plugin.video.youtube/?action=play_video&videoid=efCcUmAD8YM
+
+#EXTINF:1,Κρήτη: Η χαμένη Ατλαντίδα 
+plugin://plugin.video.youtube/?action=play_video&videoid=UXjIy5wO3Jw
+
+#EXTINF:1,ΥΠΕΡ-ΕΡΓΟΣΤΑΣΙΑ: Η ΑΝΑΜΟΡΦΩΣΗ ΤΗΣ MERCEDES 
+plugin://plugin.video.youtube/?action=play_video&videoid=LOMueCA3FRI
+
+#EXTINF:1,DOGS vs CATS
+plugin://plugin.video.youtube/?action=play_video&videoid=Q6TEthzqxQQ
+
+#EXTINF:1,Ναΐτες - Η Μυστική Αδελφότητα 
+plugin://plugin.video.youtube/?action=play_video&videoid=xbjw132uGUc
+
+#EXTINF:1,Ο τάφος του Ιησού
+plugin://plugin.video.youtube/?action=play_video&videoid=7Azb-1Dz08E
+
+#EXTINF:1,Δίδυμοι Πύργοι 
+plugin://plugin.video.youtube/?action=play_video&videoid=GeY96m7Wwfc
+
 #EXTINF:1,Ντοκυμαντέρ με άγρια ζώα
 plugin://plugin.video.youtube/?action=play_video&videoid=Mtk2xbh8CvQ
 
