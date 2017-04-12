@@ -8,16 +8,16 @@ plugin://plugin.video.youtube/?action=play_video&videoid=JLc9LjPxYLI
 #EXTINF:1,Oι 10 Μεγαλύτερες Φυσικές Καταστροφές
 plugin://plugin.video.youtube/?action=play_video&videoid=LqXLxqLseWU
 
-#EXTINF:1,ΠΑΡΑΛΛΗΛΑ ΣΥΜΠΑΝΤΑ-ΥΠΑΡΧΟΥΝ?
+#EXTINF:1,Παράλληλα Σύμπαντα - Υπάχρουν?
 plugin://plugin.video.youtube/?action=play_video&videoid=efCcUmAD8YM
 
 #EXTINF:1,Κρήτη: Η χαμένη Ατλαντίδα 
 plugin://plugin.video.youtube/?action=play_video&videoid=UXjIy5wO3Jw
 
-#EXTINF:1,ΥΠΕΡ-ΕΡΓΟΣΤΑΣΙΑ: Η ΑΝΑΜΟΡΦΩΣΗ ΤΗΣ MERCEDES 
+#EXTINF:1,ΥΠΕΡ-ΕΡΓΟΣΤΑΣΙΑ: Η Αναμόρφωση της Mercedes 
 plugin://plugin.video.youtube/?action=play_video&videoid=LOMueCA3FRI
 
-#EXTINF:1,DOGS vs CATS
+#EXTINF:1,Dogs vs Cats
 plugin://plugin.video.youtube/?action=play_video&videoid=Q6TEthzqxQQ
 
 #EXTINF:1,Ναΐτες - Η Μυστική Αδελφότητα 
@@ -89,10 +89,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=7KUe-F_HVFM
 #EXTINF:1,Η Μάχη Της Μόσχας 
 plugin://plugin.video.youtube/?action=play_video&videoid=JMdC91JXIk8
 
-#EXTINF:1,ΑΕΡΟΠΟΡΙΚΗ ΤΡΑΓΩΔΙΑ ΜΟΝΑΧΟΥ
+#EXTINF:1,Αεροπορική Τραγωδία Μονάχου
 plugin://plugin.video.youtube/?action=play_video&videoid=zzsQ7tRNyQc
 
-#EXTINF:1,ΟΙ ΣΥΓΧΡΟΝΟΙ ΓΙΓΑΝΤΕΣ ΤΩΝ ΑΙΘΕΡΩΝ
+#EXTINF:1,Οι Σύγχρονοι Γίγαντες Των Αιθέρων
 plugin://plugin.video.youtube/?action=play_video&videoid=NjcU0Las8sc
 
 #EXTINF:1,Τα καλύτερα ελικόπτερα όλων των εποχών
@@ -104,13 +104,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=vjXFDzX31WM
 #EXTINF:1,ΦΑΙΝΟΜΕΝΑ : Τύχη, συμπτώσεις, συγχρονικότητα
 plugin://plugin.video.youtube/?action=play_video&videoid=L34cWJuXopw
 
-#EXTINF:1,ΦΑΙΝΟΜΕΝΑ : ΧΡΟΝΟΣ
+#EXTINF:1,ΦΑΙΝΟΜΕΝΑ : Χρόνος
 plugin://plugin.video.youtube/?action=play_video&videoid=DIX1t71FcLU
 
 #EXTINF:1,Θετικά vs Αρνητικά Συναισθήματα
 plugin://plugin.video.youtube/?action=play_video&videoid=P0KBXxV7yDM
 
-#EXTINF:1,ΦΑΙΝΟΜΕΝΑ : ΕΠΙΘΑΝΑΤΙΕΣ ΕΜΠΕΙΡΙΕΣ (N.D.E.)
+#EXTINF:1,ΦΑΙΝΟΜΕΝΑ : Επιθανάτιες Εμπειρίες (N.D.E.)
 plugin://plugin.video.youtube/?action=play_video&videoid=Yt9CCT14YiY
 
 #EXTINF:1,Υπερκατασκευές - Dubai Palace hotel
@@ -122,19 +122,16 @@ plugin://plugin.video.youtube/?action=play_video&videoid=L88O_UlruzU
 #EXTINF:1,Η Ιστορία του Κόσμου μέσα σε 2 ώρες
 plugin://plugin.video.youtube/?action=play_video&videoid=neOSet0fu8c
 
-#EXTINF:1,ΥΠΕΡ-ΕΡΓΟΣΤΑΣΙΑ: Η ΑΝΑΜΟΡΦΩΣΗ ΤΗΣ MERCEDES
-plugin://plugin.video.youtube/?action=play_video&videoid=LOMueCA3FRI
-
 #EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Γέφυρα Δυο Ηπείρων
 plugin://plugin.video.youtube/?action=play_video&videoid=DifmzO-ebuo
 
-#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - ΑΤΟΜΙΚΗ ΒΟΜΒΑ
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Ατομική Βόμβα
 plugin://plugin.video.youtube/?action=play_video&videoid=JQzkjrjhHn0
 
-#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - ΦΥΛΑΚΕΣ ΥΨΙΣΤΗΣ ΑΣΦΑΛΕΙΑΣ
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Φυλακές Υψίστης Ασφαλείας
 plugin://plugin.video.youtube/?action=play_video&videoid=sEFdtR-FhVE
 
-#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - ΛΥΚΑΝΘΡΩΠΟΣ ΜΥΘΟΣ ΚΑΙ ΙΣΤΟΡΙΑ
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Λυκάνθρωπος, Μύθος και Ιστορία
 plugin://plugin.video.youtube/?action=play_video&videoid=WJRBFher5lQ
 
 #EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Τα καλύτερα βομβαρδιστικά αεροσκάφη όλων των εποχών.
@@ -347,7 +344,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=wUKO_MHGHXA
 #EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Γέφυρα Δυο Ηπείρων
 plugin://plugin.video.youtube/?action=play_video&videoid=DifmzO-ebuo
 
-#EXTINF:1,Το ΈΒΕΡΕΣΤ αποκαλύπτεται - Ντοκιμαντέρ
+#EXTINF:1,Το ΈΒΕΡΕΣΤ Αποκαλύπτεται - Ντοκιμαντέρ
 plugin://plugin.video.youtube/?action=play_video&videoid=vuXxFadxEHg
 
 #EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ - Ατλαντίδα: Το Βυθισμένο Βασίλειο
@@ -359,121 +356,121 @@ plugin://plugin.video.youtube/?action=play_video&videoid=c-4VoStrLuk
 #EXTINF:1,Τα μυστικά του Παρθενώνα - Ντοκιμαντέρ
 plugin://plugin.video.youtube/?action=play_video&videoid=Gez5puE-Bjo
 
-#EXTINF:1,ΠΩΣ Η ΚΑΝΝΑΒΗ ΘΕΡΑΠΕΥΕΙ ΤΟΝ ΚΑΡΚΙΝΟ
+#EXTINF:1,Πως η Κάνναβη Θεραπεύει Τον Καρκίνο
 plugin://plugin.video.youtube/?action=play_video&videoid=XtQk0w6ZXA8
 
-#EXTINF:1,ΚΛΕΒΟΝΤΑΣ ΑΠΟ ΤΟΥΣ ΦΤΩΧΟΥΣ
+#EXTINF:1,Κλέβοντας Απο Τους Φτωχούς
 plugin://plugin.video.youtube/?action=play_video&videoid=duk5n2qCEpg
 
-#EXTINF:1,ΠΕΤΑΜΕΝΟ ΦΑΓΗΤΟ
+#EXTINF:1,Πεταμένο Φαγητό
 plugin://plugin.video.youtube/?action=play_video&videoid=Mvjb8p_ngwU
 
-#EXTINF:1,ΜΕΛΕΤΩΝΤΑΣ ΤΟΝ ΟΥΡΑΝΟ
+#EXTINF:1,Μελετώντας Τον Ουρανό
 plugin://plugin.video.youtube/?action=play_video&videoid=YVZQSWBSunc
 
-#EXTINF:1,ΜΟΝΟΠΑΤΙΑ ΤΟΥ ΕΛΛΗΝΙΚΟΥ ΒΥΘΟΥ
+#EXTINF:1,Μονοπάτια Του Ελληνικού Βυθού
 plugin://plugin.video.youtube/?action=play_video&videoid=813koFTTKpI
 
-#EXTINF:1,ΑΛΕΞΑΝΔΡΕΙΑ - ΠΟΛΗ ΚΑΤΩ ΑΠΟ ΤΗΝ ΘΑΛΑΣΣΑ
+#EXTINF:1,ΑΛΕΞΑΝΔΡΕΙΑ - Πόλη Κάτω Απο Την Θάλασσα
 plugin://plugin.video.youtube/?action=play_video&videoid=p6xpOr9oagM
 
-#EXTINF:1,ΑΝΕΞΗΓΗΤΑ ΦΑΙΝΟΜΕΝΑ
+#EXTINF:1,Ανεξήγητα Φαινόμενα
 plugin://plugin.video.youtube/?action=play_video&videoid=Vx1LuzOiv38
 
-#EXTINF:1,ΚΩΔΙΚΑΣ ΝΤΑ ΒΙΝΤΣΙ
+#EXTINF:1,Κώδικας Ντα Βίντσι
 plugin://plugin.video.youtube/?action=play_video&videoid=IHpNQsHIIsQ
 
-#EXTINF:1,ΚΟΜΜΟΥΝΙΣΤΙΚΗ ΙΣΤΟΡΙΑ
+#EXTINF:1,Κομμουνιστική Ιστορία
 plugin://plugin.video.youtube/?action=play_video&videoid=b1PqG4DobLk
 
-#EXTINF:1,ΟΙ ΤΟΠΟΙ ΤΩΝ ΜΥΘΩΝ
+#EXTINF:1,Οι Τόποι Των Μύθων
 plugin://plugin.video.youtube/?action=play_video&videoid=QNmVO__RbLo
 
-#EXTINF:1,Η ΑΝΘΡΩΠΟΤΗΤΑ ΠΕΙΡΑΜΑΤΟΖΩΟ
+#EXTINF:1,Η Ανθρωπότητα Πειραματόζωο
 plugin://plugin.video.youtube/?action=play_video&videoid=cALzBfBReUc
 
-#EXTINF:1,ΤΟ ΣΠΑΘΙ ΤΩΝ ΣΑΜΟΥΡΑΙ
+#EXTINF:1,Το Σπαθί Των Σαμουράι
 plugin://plugin.video.youtube/?action=play_video&videoid=0RfKStJ4F3Y
 
-#EXTINF:1,ΣΕΛΗΝΗ - Ο ΗΛΙΟΣ ΤΗΣ ΝΥΧΤΑΣ
+#EXTINF:1,Σελήνη - Ο Ήλιος Της Νύχτας
 plugin://plugin.video.youtube/?action=play_video&videoid=jFUjxnHVOYE
 
-#EXTINF:1,ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΗΛΙΟΥ
+#EXTINF:1,Τα Μυστικά Του Ήλιου
 plugin://plugin.video.youtube/?action=play_video&videoid=SgOobYdOvjU
 
-#EXTINF:1,AMERICAN PITBULL TERRIER
+#EXTINF:1,American Pitbull Terrier
 plugin://plugin.video.youtube/?action=play_video&videoid=S32X1RNbFjo
 
-#EXTINF:1,FOUR HORSEMEN
+#EXTINF:1,Four Horsemen
 plugin://plugin.video.youtube/?action=play_video&videoid=Vp8VRoH-vDc
 
-#EXTINF:1,ΕΛΕΥΘΕΡΟΣ ΣΚΟΠΕΥΤΗΣ
+#EXTINF:1,Ελεύθερος Σκοπευτής
 plugin://plugin.video.youtube/?action=play_video&videoid=vQmsL_2Eqng
 
-#EXTINF:1,ΤΑ ΣΤΕΚΙΑ
+#EXTINF:1,Τα Στέκια
 plugin://plugin.video.youtube/?action=play_video&videoid=1mFXvIk1T4w
 
-#EXTINF:1,ΠΛΑΝΗΤΗΣ ΓΗ - Ο ΖΩΝΤΑΝΟΣ ΜΗΧΑΝΙΣΜΟΣ
+#EXTINF:1,Πλανήτης Γη - Ο Ζωντανός Οργανισμός
 plugin://plugin.video.youtube/?action=play_video&videoid=nAnbQuDfW4Q
 
-#EXTINF:1,ΠΛΟΙΑ ΦΑΝΤΑΣΜΑΤΑ 
+#EXTINF:1,Πλοία Φαντάσματα
 plugin://plugin.video.youtube/?action=play_video&videoid=BoJAJxjQdeQ
 
-#EXTINF:1,ΣΤΑ ΑΔΥΤΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ, ΤΗΣ ΣΥΝΕΙΔΗΣΗΣ ΚΑΙ ΤΗΣ ΣΚΕΨΗΣ
+#EXTINF:1,Στα Άδυτα Του Εγκεφάλου, Της Συνείδησης Και Της Σκέψης
 plugin://plugin.video.youtube/?action=play_video&videoid=qcdTwdd8P-4
 
-#EXTINF:1,ΤΟ ΘΑΥΜΑ ΤΗΣ ΖΩΗΣ
+#EXTINF:1,Το Θαύμα Της Ζωής
 plugin://plugin.video.youtube/?action=play_video&videoid=w_-y65DXw0g
 
-#EXTINF:1, ΜΑΘΗΜΑΤΙΚΑ ΤΟΥ ΧΑΟΥΣ
+#EXTINF:1, Μαθηματικά Του Χάους
 plugin://plugin.video.youtube/?action=play_video&videoid=tr4vzzbLDE4
 
-#EXTINF:1,ΕΓΩΓΗΙΝΑ ΑΡΧΑΙΟΛΟΓΙΚΑ ΕΥΡΗΜΑΤΑ ΣΤΗ ΒΟΛΙΒΙΑ
+#EXTINF:1,Εξωγήινα Αρχαιολογικά Ευρήματα Στη Βολιβία
 plugin://plugin.video.youtube/?action=play_video&videoid=iLgGcBdjf9w
 
-#EXTINF:1,ΠΑΓΚΡΑΤΙΟ...Η ΠΟΛΕΜΙΚΗ ΤΕΧΝΗ ΤΩΝ ΕΛΛΗΝΩΝ
+#EXTINF:1,Παγκράτιο...Η Πολεμική Τέχνη Των Ελλήνων
 plugin://plugin.video.youtube/?action=play_video&videoid=b5B9GYjagCM
 
-#EXTINF:1,Ο ΔΟΥΡΕΙΟΣ ΙΠΠΟΣ ΤΗΣ ΕΞΟΥΣΙΑΣ
+#EXTINF:1,Ο Δούρειος Ίππος Της Εξουσίας
 plugin://plugin.video.youtube/?action=play_video&videoid=LNXvxD85jvc
 
-#EXTINF:1,ΑΡΙΣΤΟΤΕΛΗΣ ΩΝΑΣΗΣ
+#EXTINF:1,Αριστοτέλης Ωνάσης
 plugin://plugin.video.youtube/?action=play_video&videoid=14gKu3dxSak
 
-#EXTINF:1,ΟΙΚΟΝΟΜΙΚΕΣ ΚΡΙΣΕΙΣ ΤΗΣ ΕΛΛΑΔΑΣ
+#EXTINF:1,Οικονομικές Κρίσεις Της Ελλάδος
 plugin://plugin.video.youtube/?action=play_video&videoid=QnFLz0kkvcc
 
-#EXTINF:1,Η ΑΠΑΤΗ ΔΝΤ ΚΑΙ ΤΡΑΠΕΖΩΝ
+#EXTINF:1,Η Απάτη ΔΝΤ Και Τραπεζών
 plugin://plugin.video.youtube/?action=play_video&videoid=bhJZN96hw5A
 
-#EXTINF:1,ΑΟΡΑΤΗ ΑΥΤΟΚΡΑΤΟΡΙΑ - ΝΕΑ ΠΑΓΚΟΣΜΙΑ ΤΑΞΗ
+#EXTINF:1,Αόρατη Αυτοκρατορία - Νέα Παγκόσμια Τάξη
 plugin://plugin.video.youtube/?action=play_video&videoid=-uJ9gK2hj5M
 
-#EXTINF:1,ΤΟ ΚΥΚΛΩΜΑ
+#EXTINF:1,Το Κύκλωμα
 plugin://plugin.video.youtube/?action=play_video&videoid=pIb2viM1KXY
 
-#EXTINF:1,Η ΚΡΙΣΗ ΜΕ ΑΠΛΑ ΛΟΓΙΑ
+#EXTINF:1,Η Κρίση Με Απλά Λόγια
 plugin://plugin.video.youtube/?action=play_video&videoid=KokluT5KZOQ
 
-#EXTINF:1,Η ΚΑΤΑΣΚΕΥΗ ΤΗΣ ΣΥΝΑΙΝΕΣΗΣ ΚΑΙ ΤΑ ΜΜΕ
+#EXTINF:1,Η Κατασκευή Της Συναίνεσης και τα ΜΜΕ
 plugin://plugin.video.youtube/?action=play_video&videoid=fmqWu1zNV1w
 
-#EXTINF:1,Ο 4ος ΠΑΓΚΟΣΜΙΟΣ ΠΟΛΕΜΟΣ
+#EXTINF:1,Ο 4ος Παγκόσμιος Πόλεμος
 plugin://plugin.video.youtube/?action=play_video&videoid=A1RqyvsbjgA
 
-#EXTINF:1,ΤΟ ΧΡΗΜΑ. ΓΙΑΤΙ ΛΕΙΠΕΙ ΑΠΟ ΠΑΝΤΟΥ;
+#EXTINF:1,Το Χρήμα. Γιατί λείπει απο παντού;
 plugin://plugin.video.youtube/?action=play_video&videoid=yC0tmnyAYtc
 
-#EXTINF:1,ΤΟ ΜΕΓΑΛΟ ΞΕΠΟΥΛΗΜΑ
+#EXTINF:1,Το Μεγάλο Ξεπούλημα
 plugin://plugin.video.youtube/?action=play_video&videoid=ahs_cYMffZ4
 
-#EXTINF:1,ΧΡΕΟΚΡΑΤΙΑ
+#EXTINF:1,Χρεοκτρατία
 plugin://plugin.video.youtube/?action=play_video&videoid=Q4oXfrXtEmE
 
-#EXTINF:1,ΣΤΑ ΙΧΝΗ ΤΗΣ ΤΡΟΙΚΑΣ
+#EXTINF:1,Στα Ίχνη Της Τρόικας
 plugin://plugin.video.youtube/?action=play_video&videoid=b-QOlvTOlJ0
 
-#EXTINF:1,ΤΡΑΠΕΖΑ ΤΗΣ ΕΛΛΑΔΟΣ: Η ΣΙΩΠΗ ΕΙΝΑΙ ΧΡΥΣΟΣ;
+#EXTINF:1,Τράπεζα Της Ελλάδος: Η Σιωπή Είναι Χρυσός;
 plugin://plugin.video.youtube/?action=play_video&videoid=9yEXPn7HZvI
 
 #EXTINF:1,ΤΟ 1ο ΣΚΑΝΔΑΛΟ ΤΗΣ SIEMENS ΤΗΝ ΔΕΚΑΕΤΙΑ ΤΟΥ '50
