@@ -2,6 +2,24 @@
 
 #EXTM3U
 
+#EXTINF:1,Καταφύγια άγριας ζωής της Βραζιλίας
+plugin://plugin.video.youtube/?action=play_video&videoid=OGEz3Jx02YI
+
+#EXTINF:1,Καταφύγια άγριας ζωής της Ινδονησίας
+plugin://plugin.video.youtube/?action=play_video&videoid=k2Sdb5zNx3w
+
+#EXTINF:1,Το καταφύγιο της άγριας ζωής του Οστβάρντερσπλασεν στην Ολλανδία
+plugin://plugin.video.youtube/?action=play_video&videoid=K6k_emfbTGQ
+
+#EXTINF:1,Καταφύγιο άγριας ζωής της Κόστα Ρίκα
+plugin://plugin.video.youtube/?action=play_video&videoid=x2Qvcfujbko
+
+#EXTINF:1,Καταφύγια άγριας ζωής της Μαγαδασκάρης
+plugin://plugin.video.youtube/?action=play_video&videoid=r9NTx0pAjWM
+
+#EXTINF:1,Καταφύγια άγριας ζωής της Αφρικής
+plugin://plugin.video.youtube/?action=play_video&videoid=34zFsc4YUgo
+
 #EXTINF:1,Megastructures National Geographic, Dubai Palace hotel
 plugin://plugin.video.youtube/?action=play_video&videoid=JLc9LjPxYLI
 
