@@ -2,9 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:1,Τ
-plugin://plugin.video.dailymotion/?action=play_video&videoid=dai.ly/x2pfox5
-
 #EXTINF:1,Τα πιο επικίνδυνα αεροδρόμια στον κόσμο!
 plugin://plugin.video.youtube/?action=play_video&videoid=gPGc3CKxDHk
 
