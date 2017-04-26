@@ -2,6 +2,12 @@
 
 #EXTM3U
 
+#EXTINF:1,Τα πιο επικίνδυνα αεροδρόμια στον κόσμο!
+plugin://plugin.video.youtube/?action=play_video&videoid=gPGc3CKxDHk
+
+#EXTINF:1,20 most dangerous selfies ever taken
+plugin://plugin.video.youtube/?action=play_video&videoid=vXE614jr97w
+
 #EXTINF:1,Αποκάλυψη Εξωγήινης Ζωής
 plugin://plugin.video.youtube/?action=play_video&videoid=f_AlvHyo4mI
 
