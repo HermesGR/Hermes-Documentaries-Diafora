@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,Τραγωδία Στον Αέρα
+plugin://plugin.video.dailymotion/?action=play_video&videoid=x2o1o98
+
 #EXTINF:1,Τα πιο επικίνδυνα αεροδρόμια στον κόσμο!
 plugin://plugin.video.youtube/?action=play_video&videoid=gPGc3CKxDHk
 
