@@ -53,6 +53,9 @@ plugin://plugin.video.dailymotion_com/?url=xrk8um&mode=playVideo
 #EXTINF:1,Τραγωδία Στον Αέρα - Munich Air Disaster
 plugin://plugin.video.dailymotion_com/?url=x3r0omi&mode=playVideo
 
+#EXTINF:1,Στα Βάθη Του Τιτανικού
+plugin://plugin.video.dailymotion_com/?url=x2roidr&mode=playVideo
+
 #EXTINF:1,Τα πιο επικίνδυνα αεροδρόμια στον κόσμο!
 plugin://plugin.video.youtube/?action=play_video&videoid=gPGc3CKxDHk
 
