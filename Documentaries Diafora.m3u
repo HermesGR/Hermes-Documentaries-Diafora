@@ -41,6 +41,14 @@ plugin://plugin.video.dailymotion_com/?url=xrk8um&mode=playVideo
 #EXTINF:1,Τραγωδία Στον Αέρα - Munich Air Disaster
 plugin://plugin.video.dailymotion_com/?url=x3r0omi&mode=playVideo
 
+#EXTINF:1,Big Bigger Biggest - Bridge/Γέφυρα
+plugin://plugin.video.dailymotion_com/?url=x2v9ist&mode=playVideo
+
+#EXTINF:1,Big Bigger Biggest - Skyscraper/Ουρανοξύστης
+plugin://plugin.video.dailymotion_com/?url=x2oowpe&mode=playVideo
+
+#EXTINF:1,Big Bigger Biggest - Airport/Αεροδρόμιο
+plugin://plugin.video.dailymotion_com/?url=x2w6bn1&mode=playVideo
 
 #EXTINF:1,Τα πιο επικίνδυνα αεροδρόμια στον κόσμο!
 plugin://plugin.video.youtube/?action=play_video&videoid=gPGc3CKxDHk
