@@ -3,7 +3,7 @@
 #EXTM3U
 
 #EXTINF:1,Τραγωδία Στον Αέρα - Η Πτήση 370 Των Μαλαισιανών Αερογραμμών
-plugin://plugin.video.dailymotion_com/?url=x2k5npkmode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x2k5npk&mode=playVideo
 
 #EXTINF:1,Τραγωδία Στον Αέρα - Fire Fight
 plugin://plugin.video.dailymotion_com/?url=x2k6415&mode=playVideo
