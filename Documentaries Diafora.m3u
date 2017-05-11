@@ -5,6 +5,24 @@
 #EXTINF:1,Η τραγωδία του Λεοπολντβίλ
 plugin://plugin.video.youtube/?action=play_video&videoid=PQXJkKwOD9M
 
+#EXTINF:1,Στα βάθη του Τριγώνου των Βερμούδων
+plugin://plugin.video.youtube/?action=play_video&videoid=V4CZrJ40f5M
+
+#EXTINF:1,Καταπολέμηση της διαφθοράς:Το «φονικό» όπλο των ΗΠΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=0Rx9JTWhpo8
+
+#EXTINF:1,Θανατηφόρα ψεύτικα φάρμακα
+plugin://plugin.video.youtube/?action=play_video&videoid=Y29HeAhomXs
+
+#EXTINF:1,Το μεγαλύτερο πάρτυ στην ιστορία
+plugin://plugin.video.youtube/?action=play_video&videoid=SIIaKx-xHDo
+
+#EXTINF:1,Ιδιωτικοί παράδεισοι.
+plugin://plugin.video.youtube/?action=play_video&videoid=meSoKu_OOa8
+
+#EXTINF:1,Εξωγήινες Υποθέσεις~Το "Ρόζγουελ" της Βραζιλίας
+plugin://plugin.video.youtube/?action=play_video&videoid=rEKJEOG-4Go
+
 #EXTINF:1,Χημικά & βιολογικά όπλα στην πολιορκία της Τροίας 
 plugin://plugin.video.youtube/?action=play_video&videoid=srCNa1eXK_E
 
