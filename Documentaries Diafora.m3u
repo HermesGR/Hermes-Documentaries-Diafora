@@ -2,6 +2,27 @@
 
 #EXTM3U
 
+#EXTINF:1, Αεροπλανοφόρο Εντερπράιζ - Επεισόδιο 1
+plugin://plugin.video.youtube/?action=play_video&videoid=tbV6Kb5g5x0
+
+#EXTINF:1, Αεροπλανοφόρο Εντερπράιζ - Επεισόδιο 2
+plugin://plugin.video.youtube/?action=play_video&videoid=wbv_AcpUoNc
+
+#EXTINF:1, Η Ιστορία Του Κόκκινου Οκτώβρη
+plugin://plugin.video.youtube/?action=play_video&videoid=KW0cec-cOb0
+
+#EXTINF:1, Αρχαία Τέρατα
+plugin://plugin.video.youtube/?action=play_video&videoid=hx0PlQzwS8
+
+#EXTINF:1, Δραπετσώνα: Για να έχουνε ζωή
+plugin://plugin.video.youtube/?action=play_video&videoid=PYQKVbITs-I
+
+#EXTINF:1, Η αξία Του Χρήματος 
+plugin://plugin.video.youtube/?action=play_video&videoid=gd3JHABIjzs
+
+#EXTINF:1, Θανάσιμος Σκοπευτής
+plugin://plugin.video.youtube/?action=play_video&videoid=Jh1zs00Ijpk
+
 #EXTINF:1,Η τραγωδία του Λεοπολντβίλ
 plugin://plugin.video.youtube/?action=play_video&videoid=PQXJkKwOD9M
 
