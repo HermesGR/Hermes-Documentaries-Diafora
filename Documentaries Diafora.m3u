@@ -2,18 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:1,Big Bigger Biggest - Bridge/Γέφυρα
-plugin://plugin.video.dailymotion_com/?url=x2v9ist&mode=playVideo
-
-#EXTINF:1,Big Bigger Biggest - Skyscraper/Ουρανοξύστης
-plugin://plugin.video.dailymotion_com/?url=x2oowpe&mode=playVideo
-
-#EXTINF:1,Big Bigger Biggest - Airport/Αεροδρόμιο
-plugin://plugin.video.dailymotion_com/?url=x2w6bn1&mode=playVideo
-
-#EXTINF:1,Big Bigger Biggest - Prison/Φυλακή
-plugin://plugin.video.dailymotion_com/?url=x2mtkav&mode=playVideo
-
 #EXTINF:1,Τραγωδία Στον Αέρα - Η Πτήση 370 Των Μαλαισιανών Αερογραμμών
 plugin://plugin.video.dailymotion_com/?url=x2k5npk&mode=playVideo
 
@@ -52,9 +40,6 @@ plugin://plugin.video.dailymotion_com/?url=xrk8um&mode=playVideo
 
 EXTINF:1,Τραγωδία Στον Αέρα - Munich Air Disaster
 plugin://plugin.video.dailymotion_com/?url=x3r0omi&mode=playVideo
-
-#EXTINF:1,Γυναίκες Δολοφόνοι - An Inconvenient Marriage
-plugin://plugin.video.dailymotion_com/?url=x2tko1l&mode=playVideo&mode=playVideo
 
 #EXTINF:1,Στα Βάθη Του Τιτανικού
 plugin://plugin.video.dailymotion_com/?url=x2roidr&mode=playVideo
@@ -740,6 +725,18 @@ plugin://plugin.video.youtube/?action=play_video&videoid=dyFQzV3K2VI
 #EXTINF:1,ΤΑ ΜΥΣΤΙΚΑ ΚΑΙ Η ΨΕΥΔΑΙΣΘΗΣΗ ΤΟΥ ΧΡΟΝΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=pTJdv3W3nuc
 
+#EXTINF:1,Big Bigger Biggest - Bridge/Γέφυρα
+plugin://plugin.video.dailymotion_com/?url=x2v9ist&mode=playVideo
+
+#EXTINF:1,Big Bigger Biggest - Skyscraper/Ουρανοξύστης
+plugin://plugin.video.dailymotion_com/?url=x2oowpe&mode=playVideo
+
+#EXTINF:1,Big Bigger Biggest - Airport/Αεροδρόμιο
+plugin://plugin.video.dailymotion_com/?url=x2w6bn1&mode=playVideo
+
+#EXTINF:1,Big Bigger Biggest - Prison/Φυλακή
+plugin://plugin.video.dailymotion_com/?url=x2mtkav&mode=playVideo
+
 #EXTINF:1,Κατά συρροή δολοφόνοι: ΤΖΕΦΡΙ ΝΤΑΜΕΡ
 plugin://plugin.video.youtube/?action=play_video&videoid=AoyeKDO8UaE
 
@@ -751,6 +748,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Y9mpsfTNSz8
 
 #EXTINF:1,Εγκλήματα Που Συγκλόνισαν Τον Κόσμο - Το Σπίτι Του Τρόμου
 plugin://plugin.video.youtube/?action=play_video&videoid=hquAcgb6M6M
+
+#EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- AN INCOVENIENT MARRIAGE
+plugin://plugin.video.dailymotion_com/?url=x2tko1l&mode=playVideo&mode=playVideo
 
 #EXTINF:1,ΓΥΝΑΙΚΕΣ ΔΟΛΟΦΟΝΟΙ- TWISTED MINDS
 plugin://plugin.video.youtube/?action=play_video&videoid=--SWHaVruXo
