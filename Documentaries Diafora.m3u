@@ -2,6 +2,33 @@
 
 #EXTM3U
 
+#EXTINF:1, Μηχανή του Χρόνου: "Άγνωστες ιστορίες από τη ζωή του Σωτήρη Μουστάκα"
+plugin://plugin.video.youtube/?action=play_video&videoid=3KSJ7yd9PEo
+
+#EXTINF:1, ''Braveheart'' Τί πραγματικά Συνέβη
+plugin://plugin.video.youtube/?action=play_video&videoid=DE7bxQCvWhY
+
+#EXTINF:1, Το μυστήριο της πτήσης ΗΛΙΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=p33ZHeDr1nM
+
+#EXTINF:1, Ατομική Βόμβα - Ιστορικά Μυστικά
+plugin://plugin.video.youtube/?action=play_video&videoid=X8w0SjyVmfw
+
+#EXTINF:1, Top 10 Σεξουαλικές Φαντασιώσεις
+plugin://plugin.video.youtube/?action=play_video&videoid=DgoqQcHgUSU
+
+#EXTINF:1, 12 Φονικά Ζώα 
+plugin://plugin.video.youtube/?action=play_video&videoid=uPFJ5rypoc0
+
+#EXTINF:1, Η Τεχνολογία Των Ναζί
+plugin://plugin.video.youtube/?action=play_video&videoid=k1eEcKpU67E
+
+#EXTINF:1, Το Τέλος Της Γης
+plugin://plugin.video.youtube/?action=play_video&videoid=CPPqY2EZ8VY
+
+#EXTINF:1, Σεισμός και Ζώα
+plugin://plugin.video.youtube/?action=play_video&videoid=ylj1b0xXw6U
+
 #EXTINF:1, Αεροπλανοφόρο Εντερπράιζ - Επεισόδιο 1
 plugin://plugin.video.youtube/?action=play_video&videoid=tbV6Kb5g5x0
 
