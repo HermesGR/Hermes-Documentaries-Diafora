@@ -2,31 +2,43 @@
 
 #EXTM3U
 
+#EXTINF:1,ΤΟ ΥΠΕΡΦΡΟΥΡΙΟ ΝΗΣΙ ΤΟΥ ΧΙΤΛΕΡ
+plugin://plugin.video.youtube/?action=play_video&videoid=pehBdUucbSo
+
+#EXTINF:1, Η ΠΤΗΣΗ HELIOS
+plugin://plugin.video.youtube/?action=play_video&videoid=wYHBUNx19Js
+
+#EXTINF:1,ΟΠΑΠ: ΑΠΟ ΤΟ ΜΕΓΑΛΟ ΞΕΠΟΥΛΗΜΑ, ΣΤΟ ΚΑΖΙΝΟ ΤΗΣ ΓΕΙΤΟΝΙΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=_7cuRSs6-_o
+
+#EXTINF:1,ΠΩΣ ΔΗΜΙΟΥΡΓΗΘΗΚΕ Η ΓΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=n-BaNKKNga0
+
 #EXTINF:1, Μηχανή του Χρόνου: "Άγνωστες ιστορίες από τη ζωή του Σωτήρη Μουστάκα"
 plugin://plugin.video.youtube/?action=play_video&videoid=3KSJ7yd9PEo
 
-#EXTINF:1, ''Braveheart'' Τί πραγματικά Συνέβη
+#EXTINF:1, ''Braveheart'' ΤΙ ΠΡΑΓΜΑΤΙΚΑ ΣΥΝΕΒΕΙ
 plugin://plugin.video.youtube/?action=play_video&videoid=DE7bxQCvWhY
 
-#EXTINF:1, Το μυστήριο της πτήσης ΗΛΙΟΣ
+#EXTINF:1, ΤΟ ΜΥΣΤΗΡΙΟ ΤΗΣ ΠΤΗΣΗΣ ΗΛΙΟΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=p33ZHeDr1nM
 
-#EXTINF:1, Ατομική Βόμβα - Ιστορικά Μυστικά
+#EXTINF:1, ΑΤΟΜΙΚΗ ΒΟΜΒΑ - ΙΣΤΟΡΙΚΑ ΜΥΣΤΙΚΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=X8w0SjyVmfw
 
-#EXTINF:1, Top 10 Σεξουαλικές Φαντασιώσεις
+#EXTINF:1, TΟΡ 10 ΣΕΞΟΥΑΛΙΚΕΣ ΦΑΝΤΑΣΙΩΣΕΙΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=DgoqQcHgUSU
 
-#EXTINF:1, 12 Φονικά Ζώα 
+#EXTINF:1, 12 ΦΟΝΙΚΑ ΖΩΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=uPFJ5rypoc0
 
-#EXTINF:1, Η Τεχνολογία Των Ναζί
+#EXTINF:1, Η ΤΕΧΝΟΛΟΓΙΑ ΤΩΝ ΝΑΖΙ
 plugin://plugin.video.youtube/?action=play_video&videoid=k1eEcKpU67E
 
-#EXTINF:1, Το Τέλος Της Γης
+#EXTINF:1, ΤΟ ΤΕΛΟΣ ΤΗΣ ΓΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=CPPqY2EZ8VY
 
-#EXTINF:1, Σεισμός και Ζώα
+#EXTINF:1, ΣΕΙΣΜΟΣ ΚΑΙ ΖΩΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=ylj1b0xXw6U
 
 #EXTINF:1, Αεροπλανοφόρο Εντερπράιζ - Επεισόδιο 1
