@@ -5,19 +5,28 @@
 #EXTINF:1,ΤΟ ΥΠΕΡΦΡΟΥΡΙΟ ΝΗΣΙ ΤΟΥ ΧΙΤΛΕΡ
 plugin://plugin.video.youtube/?action=play_video&videoid=pehBdUucbSo
 
+#EXTINF:1,ΤΑ ΠΑΙΔΙΑ ΔΟΛΟΦΟΝΟΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=mwpIV29ALOs
+
+#EXTINF:1, Η ΙΣΤΟΡΙΑ ΤΟΥ Μ134-MINIGUN
+plugin://plugin.video.youtube/?action=play_video&videoid=KOpofVBHxSY
+
 #EXTINF:1, Η ΠΤΗΣΗ HELIOS
 plugin://plugin.video.youtube/?action=play_video&videoid=wYHBUNx19Js
 
 #EXTINF:1,ΟΠΑΠ: ΑΠΟ ΤΟ ΜΕΓΑΛΟ ΞΕΠΟΥΛΗΜΑ, ΣΤΟ ΚΑΖΙΝΟ ΤΗΣ ΓΕΙΤΟΝΙΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=_7cuRSs6-_o
 
+#EXTINF:1,Ο ΣΩΜΑΤΟΦΥΛΑΚΑΣ ΤΟΥ ΠΑΠΠΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=Af-G8MigVZU
+
 #EXTINF:1,ΠΩΣ ΔΗΜΙΟΥΡΓΗΘΗΚΕ Η ΓΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=n-BaNKKNga0
 
-#EXTINF:1, Μηχανή του Χρόνου: "Άγνωστες ιστορίες από τη ζωή του Σωτήρη Μουστάκα"
+#EXTINF:1, ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ: "ΆΓΝΩΣΤΕΣ ΙΣΤΟΡΙΕΣ ΑΠΟ ΤΗΝ ΖΩΗ ΤΟΥ ΣΩΤ.ΜΟΥΣΤΑΚΑ"
 plugin://plugin.video.youtube/?action=play_video&videoid=3KSJ7yd9PEo
 
-#EXTINF:1, ''Braveheart'' ΤΙ ΠΡΑΓΜΑΤΙΚΑ ΣΥΝΕΒΕΙ
+#EXTINF:1, ''BRAVEHEART'' ΤΙ ΠΡΑΓΜΑΤΙΚΑ ΣΥΝΕΒΕΙ
 plugin://plugin.video.youtube/?action=play_video&videoid=DE7bxQCvWhY
 
 #EXTINF:1, ΤΟ ΜΥΣΤΗΡΙΟ ΤΗΣ ΠΤΗΣΗΣ ΗΛΙΟΣ
