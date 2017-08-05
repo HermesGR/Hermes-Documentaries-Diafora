@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,ΔΑΝΕΙΑ ΑΝΕΞΑΡΤΗΣΙΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=S9oHdl5rSC0
+
 #EXTINF:1,ΤΟ ΥΠΕΡΦΡΟΥΡΙΟ ΝΗΣΙ ΤΟΥ ΧΙΤΛΕΡ
 plugin://plugin.video.youtube/?action=play_video&videoid=pehBdUucbSo
 
