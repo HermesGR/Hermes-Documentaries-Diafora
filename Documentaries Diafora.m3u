@@ -2,6 +2,54 @@
 
 #EXTM3U
 
+#EXTINF:1,ΤΙΤΑΝΙΚΟΣ ΤΙ ΠΡΑΓΜΑΤΙΚΑ ΣΥΝΕΒΗ 
+plugin://plugin.video.youtube/?action=play_video&videoid=mD_vxPO3oeg
+
+#EXTINF:1,ΑΙΘΑΛΟΜΙΧΛΗ Ο ΣΙΩΠΗΛΟΣ ΦΟΝΙΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=aAsguYE2v7Q
+
+#EXTINF:1,ΣΕΡΛΟΚ ΧΟΛΜΣ Η ΑΛΗΘΙΝΗ ΙΣΤΟΡΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=_zVjfgpbkAw
+
+#EXTINF:1,ΕΞΩΓΗΙΝΗ ΖΩΗ ΚΑΙ ΕΠΙΣΤΗΜΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=tM_4my_6Gg0
+
+#EXTINF:1,ΚΡΑΤΟΥΜΕΝΟΣ ΣΤΟ ΜΕΞΙΚΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=rXroSKQVHWo
+
+#EXTINF:1,ΤΑ ΟΠΛΑ ΤΩΝ ΕΛΛΗΝΩΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=fwrmsyGIpr4
+
+#EXTINF:1,ΒΟΡΕΙΑ ΚΟΡΕΑ ΤΟΤΕ ΚΑΙ ΤΩΡΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=o6CHQ8Ihu6c
+
+#EXTINF:1,ΚΟΛΟΜΒΙΑ - Η ΔΙΑΚΙΝΗΣΗ ΤΗΣ ΚΟΚΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=pHtkQSnHWQk
+
+#EXTINF:1,ΚΟΛΟΜΒΙΑ - ΤΑ ΥΠΟΒΡΥΧΙΑ ΤΗΣ ΚΟΚΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=bOFH7NqY6Xo
+
+#EXTINF:1,ΑΠΟΓΟΝΟΙ ΤΩΝ ΝΑΖΙ 
+plugin://plugin.video.youtube/?action=play_video&videoid=_R1ZoscinTo
+
+#EXTINF:1,Η ΚΟΙΝΟΤΗΤΑ ΤΗΣ ΣΙΩΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=9l1wORFUie0
+
+#EXTINF:1,ΜΥΣΤΙΚΑ ΤΟΥ ΠΑΝΑΓΙΟΥ ΤΑΦΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=7B3kPn5z4aM
+
+#EXTINF:1,AEK F.C. - ΟΙ ΗΡΩΕΣ ΘΥΜΟΥΝΤΑΙ ΚΑΙ ΔΙΗΓΟΥΝΤΑΙ!!
+plugin://plugin.video.youtube/?action=play_video&videoid=SerD6qaI13U
+
+#EXTINF:1,ΑΔΙΣΤΑΚΤΑ ΑΡΠΑΚΤΙΚΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=ZTCXz11l0Hg
+
+#EXTINF:1,ΤΟ ΤΟΥΝΕΛ ΤΟΥ ΜΕΛΛΟΝΤΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=E2XEkaF3jMw
+
+#EXTINF:1,ΟΠΑΠ: ΑΠΟ ΤΟ ΜΕΓΑΛΟ ΞΕΠΟΥΛΗΜΑ, ΣΤΑ ΚΑΖΙΝΟ ΤΗΣ ΓΕΙΤΟΝΙΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=_7cuRSs6-_o
+
 #EXTINF:1,ΔΑΝΕΙΑ ΑΝΕΞΑΡΤΗΣΙΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=S9oHdl5rSC0
 
